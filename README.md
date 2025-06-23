@@ -6,9 +6,9 @@
 
 Наприклад:
 
-Alex Korp,3000
-Nikita Borisenko,2000
-Sitarama Raju,1000
+Alex Korp,3000  
+Nikita Borisenko,2000  
+Sitarama Raju,1000  
 
 Ваше завдання - розробити функцію total_salary(path), яка аналізує цей файл і повертає загальну та середню суму заробітної плати всіх розробників.
 
